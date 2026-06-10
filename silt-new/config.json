@@ -1,0 +1,9 @@
+{
+  "arcgisPortalUrl": "",
+  "arcgisMapToken": "",
+  "insarLinkParam": {
+    "linkType": "WEB_ADDRESS",
+    "value": "https://seismology.cmspace.uz/auth",
+    "openType": "_blank"
+  }
+}
