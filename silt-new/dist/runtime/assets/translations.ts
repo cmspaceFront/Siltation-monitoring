@@ -194,9 +194,9 @@ export const dambNameTranslations = {
     uzcryl: "Шўркўл сув омбори",
   },
   qorasuvnamangan:{
-    uz: "Qorasuv suv ombori(Namangan)",
-    ru: "Корасувсукое водохранилище(Наманган)",
-    uzcryl: "Қорасув сув омбори(Наманган)",
+    uz: "Qorasuv suv ombori",
+    ru: "Корасувское водохранилище",
+    uzcryl: "Қорасув сув омбори",
   },
   uchqizil:{
     uz: "Uchqizil suv ombori",
@@ -299,9 +299,9 @@ export const dambNameTranslations = {
     uzcryl: "Марказий Фарғона сув омбори",
   },
   qorasuvsamarqand:{
-    uz: "Qorasuvsamarqand suv ombori",
-    ru: "Корасувское водохранилище (Самарканд)",
-    uzcryl: "Қорасувсамарқанд сув омбори",
+    uz: "Qorasuv suv ombori",
+    ru: "Корасувское водохранилище",
+    uzcryl: "Қорасув сув омбори",
   },
   qalqama:{
     uz: "Qalqama sel ombori",
