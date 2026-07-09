@@ -179,9 +179,9 @@ export const dambNameTranslations = {
     uzcryl: "Чорвоқ сув омбори",
   },
   quyumozor:{//quyimozor
-    uz: "Quyimozor suv ombori",
-    ru: "Водохранилище Куйимазар",
-    uzcryl: "Қўйимозор сув омбори",
+    uz: "Tozako'l suv ombori",
+    ru: "Водохранилище Тозакуль",
+    uzcryl: "Тозакўл сув омбори",
   },
   oqdaryo:{
     uz: "Oqdaryo suv ombori",
