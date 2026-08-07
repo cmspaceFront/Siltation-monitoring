@@ -487,5 +487,7 @@ export const ALIAS_MAP = {
   sentabsoy: "sentobsoy",
   chimqurgon: "chimqorgon",
   surxon: "surhon",
-  varziq: "varzik"
+  varziq: "varzik",
+  koksareksoy: "koksereksoy",
+  dexqonobod: "dehqonobod",
 };
