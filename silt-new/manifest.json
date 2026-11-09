@@ -2,7 +2,7 @@
   "name": "silt-new",
   "type": "widget",
   "version": "1.0.0",
-  "exbVersion": "1.14.0",
+  "exbVersion": "1.18.0",
   "author": "UzSpace",
   "description": "Мониторинг заиления водохранилищ — список плотин, карты, графики и паспорта.",
   "copyright": "",
